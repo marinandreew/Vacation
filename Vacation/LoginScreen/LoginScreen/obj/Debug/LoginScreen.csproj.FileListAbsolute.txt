@@ -1,0 +1,9 @@
+D:\Vacation\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+D:\Vacation\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+D:\Vacation\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+D:\Vacation\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csprojAssemblyReference.cache
+D:\Vacation\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+D:\Vacation\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+D:\Vacation\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.cache
+D:\Vacation\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+D:\Vacation\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
