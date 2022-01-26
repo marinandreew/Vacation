@@ -1,0 +1,14 @@
+D:\program.2020\VacationManager\VacationManager\bin\Debug\VacationManager.exe.config
+D:\program.2020\VacationManager\VacationManager\bin\Debug\VacationManager.exe
+D:\program.2020\VacationManager\VacationManager\bin\Debug\VacationManager.pdb
+D:\program.2020\VacationManager\VacationManager\obj\Debug\VacationManager.csproj.AssemblyReference.cache
+D:\program.2020\VacationManager\VacationManager\obj\Debug\VacationManager.Form1.resources
+D:\program.2020\VacationManager\VacationManager\obj\Debug\VacationManager.Properties.Resources.resources
+D:\program.2020\VacationManager\VacationManager\obj\Debug\VacationManager.csproj.GenerateResource.cache
+D:\program.2020\VacationManager\VacationManager\obj\Debug\VacationManager.csproj.CoreCompileInputs.cache
+D:\program.2020\VacationManager\VacationManager\obj\Debug\VacationManager.exe
+D:\program.2020\VacationManager\VacationManager\obj\Debug\VacationManager.pdb
+D:\program.2020\VacationManager\VacationManager\bin\Debug\TeamsDb.mdf
+D:\program.2020\VacationManager\VacationManager\bin\Debug\TeamsDb_log.ldf
+D:\program.2020\VacationManager\VacationManager\bin\Debug\TeamDb.mdf
+D:\program.2020\VacationManager\VacationManager\bin\Debug\TeamDb_log.ldf
